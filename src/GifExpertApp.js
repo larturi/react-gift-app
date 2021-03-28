@@ -1,6 +1,7 @@
 import React, { Fragment, useState } from 'react';
 import { CategoryAdd } from './components/CategoryAdd';
 import { GifGrid } from './components/GifGrid';
+import { Navbar } from './components/Navbar';
 
 export const GifExpertApp = () => {
 
@@ -8,9 +9,8 @@ export const GifExpertApp = () => {
 
     return (
        <Fragment>
-           <h2>GifExpertApp</h2>
+           <Navbar/>
            <CategoryAdd setCategories={ setCategories }/>
-           <hr/>
 
            <ol> 
                { 

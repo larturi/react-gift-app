@@ -14,9 +14,9 @@ export const GifGrid = ({ category }) => {
 
     return (
         <>
-            <h3>{ category }</h3>
+            <h3 className="mt-1 mb-5 bg-green-50 p-3 text-green-700 text-lg text-center">{ category.toUpperCase() }</h3>
 
-            <div className="card-grid">
+            <div className="card-grid flex justify-center">
                 {
                     images.map( img => (
                         <GifGridItem
