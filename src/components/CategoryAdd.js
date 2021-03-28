@@ -24,7 +24,7 @@ export const CategoryAdd = ( { setCategories } ) => {
         <form onSubmit={handleSubmit}>
             <input 
                 type="text"
-                className="input border rounded border-green-500 mb-3 text-2xl appearance-none w-full px-3 py-2 text-green-600 focus focus:border-green-800 focus:outline-none active:outline-none active:border-green-600"
+                className="input border rounded border-green-500 mb-3 text-xl appearance-none w-full px-3 py-2 text-green-600 focus focus:border-green-400 focus:outline-none active:outline-none active:border-green-600"
                 value={inputValue}
                 onChange={handleInputChange}
                 placeholder="Buscar..."
