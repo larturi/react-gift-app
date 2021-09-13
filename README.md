@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  -- React & [Giphy API](https://giphy.com/) --
+  React & <a href="https://giphy.com">Giphy API</a>
 </h3>
 
 <h5 align="center">
