@@ -1,14 +1,6 @@
-<h1 align="center">
-  Giphy App
-</h1>
+# Giphy App
 
-<h3 align="center">
-  React & <a href="https://giphy.com">Giphy API</a>
-</h3>
-
-<h5 align="center">
-  Made with ❤️ by Leandro Arturi
-</h5>
+### React & <a href="https://giphy.com">Giphy API</a>
 
 ## 🚀 Quick start
 
@@ -25,3 +17,6 @@ Start development mode:
 `yarn start`
 
 You can see the app in [http://localhost:3000](http://localhost:3000/demo/drinks)
+
+##### Made with ❤️ by Leandro Arturi
+
