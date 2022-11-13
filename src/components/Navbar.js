@@ -18,13 +18,13 @@ export const Navbar = () => {
                 <ul className="list-reset md:flex md:items-center">
                     <li className="md:ml-4">
                     <a className="border-t block no-underline hover:underline py-2 md:border-none md:p-0" 
-                        href="https://developers.giphy.com/" target="_blank">
+                        href="https://developers.giphy.com/" target="_blank" rel="noreferrer" >
                         ApiGiphy.com
                     </a>
                     </li>
                     <li className="md:ml-4">
                     <a className="border-t block no-underline hover:underline py-2 md:border-none md:p-0" 
-                        href="https://www.leandroarturi.com.ar/" target="_blank">
+                        href="https://www.leandroarturi.com.ar/" target="_blank" rel="noreferrer" >
                         Contact
                     </a>
                     </li>

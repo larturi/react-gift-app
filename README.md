@@ -10,13 +10,12 @@ In the project directory run:
 
 Install dependencies:
 
-`yarn install`
+`npm install`
 
 Start development mode:
 
-`yarn start`
+`npm start`
 
 You can see the app in [http://localhost:3000](http://localhost:3000/demo/drinks)
 
 ##### Made with ❤️ by Leandro Arturi
-
